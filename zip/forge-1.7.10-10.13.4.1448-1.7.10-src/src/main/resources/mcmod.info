@@ -1,16 +1,16 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "CoderDojoMod",
+  "name": "Coder Dojo Mod",
+  "description": "The Coder Dojo mod is put together by the Coder Dojo of St. Cloud, MN.  We are an open source mod that is dedicated to providing fun, fantasical and useful features to Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "coderdojostc.org",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["D'Lux Cru"], ["chaos_jockey"], ["earbuds"], ["animandan"]
+  "credits": "All the people at Coder Dojo who have contributed to this mod.",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [mod_MinecraftForge]
 }
 ]
